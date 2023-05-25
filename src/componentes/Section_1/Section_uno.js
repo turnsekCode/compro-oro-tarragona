@@ -11,7 +11,7 @@ const Section_uno = () => {
     <section className={styles.contenedorSectionUno}>
       <div className={styles.bloqueIzq}>
         <h1>
-          Compro oro <span className={styles.linea}>Tarragona</span>
+          Compro oro en<span className={styles.linea}>Tarragona</span>
         </h1>
         <p>
           Vender oro en Tarragona es muy fácil y rápido en Quickgold. Te
